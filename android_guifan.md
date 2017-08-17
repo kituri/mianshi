@@ -34,9 +34,7 @@ getXX()  | 返回某个值的方法，使用get为前缀标识
 
 >**5.变量（variables）**
 采用小驼峰命名法。类中控件名称必须与xml布局id保持一致。
-用统一的量词通过在结尾处放置一个量词，就可创建更加统一的变量，它们更容易理解，也更容易搜索。例如，请使用strCustomerFirst和strCustomerLast，而不要使用strFirstCustomer和
-
-strLastCustomer。
+用统一的量词通过在结尾处放置一个量词，就可创建更加统一的变量，它们更容易理解，也更容易搜索。例如，请使用strCustomerFirst和strCustomerLast，而不要使用strFirstCustomer和strLastCustomer。
 
 例：
     mAdapter     (类内变量）
